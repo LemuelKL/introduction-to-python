@@ -1,0 +1,4 @@
+
+*.pyc
+*.pybryt_cache/
+*__pycache__/
